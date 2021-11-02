@@ -12,8 +12,8 @@ from typing import Sequence
 @dataclass(frozen=True)
 class Portfolio:
     en_name: str = 'Rontom'
-    cn_name: '罗从良'
-    location: str = '湖南·长沙'
+    cn_name: 'Congliang Luo'
+    location: str = 'Hunan·Changsha'
     profile: str = 'NLPer, Python Developer, Frontend Development'
     experience: str = '10+ years'
     website: str = 'http://www.llango.com'
