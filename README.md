@@ -24,7 +24,7 @@ class Portfolio:
 class Skills:
     languages: Sequence[str] = 'Python', 'JavaScript', 'Shell'
     operation_systems: Sequence[str] = 'linux', 'Mac', 'Window'
-    web_frameworks: Sequence[str] = 'flask', 'django','django rest-framework', 'vue.js', 'react.js', 'bootstrap', 'and so on' 
+    web_frameworks: Sequence[str] = 'flask', 'django', 'vue.js', 'react.js', 'bootstrap', 'and so on' 
     code_quality: Sequence[str] = 'flake8', 'mypy', 'pylint', 'black', 'pydocstyle'
     devops: Sequence[str] = 'jenkins', 'travis', 'docker'
     version_control: Sequence[str] = 'git', 'svn'
