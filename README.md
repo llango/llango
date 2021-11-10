@@ -36,5 +36,5 @@ class Social:
     wechat: str = 'rontomai'
     github: str = 'https://www.github.com/llango'
     portfolio: str = 'http://hackerlang.me'
-    email: str = 'labankiplagat81@gmail.com' 
+    email: str = 'rontomai@gmail.com' 
  ````
